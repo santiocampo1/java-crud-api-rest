@@ -4,6 +4,7 @@
 ![Maven](https://img.shields.io/badge/Maven-3.8.1-blue)
 ![Hibernate](https://img.shields.io/badge/Hibernate-5.4.32-orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue)
+![Status](https://img.shields.io/badge/Status-Done-success)
 
 ## 📚 Overview
 
